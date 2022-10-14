@@ -1,0 +1,11 @@
+{
+   "sender": {
+      "name": "Nazmi Yılmaz",
+      "address": "nazmi.yilmaz@mirket.dev",
+      "password": "CF8TH#rj$Ex89#3#"
+   },
+   "server": {
+      "host": "smtp.hostinger.com",
+      "port": 465
+   }
+}
